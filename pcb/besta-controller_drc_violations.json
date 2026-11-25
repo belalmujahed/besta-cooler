@@ -1,0 +1,1637 @@
+{
+  "board": "C:\\Users\\Belal\\project\\3d-print\\besta-cooler\\pcb\\besta-controller.kicad_pcb",
+  "timestamp": "2026-11-25T21:37:56",
+  "total_violations": 56,
+  "violation_counts": {
+    "silk_edge_clearance": 47,
+    "lib_footprint_mismatch": 1,
+    "silk_overlap": 6,
+    "silk_over_copper": 2
+  },
+  "severity_counts": {
+    "error": 0,
+    "warning": 56,
+    "info": 0
+  },
+  "category_counts": {
+    "violations": 56
+  },
+  "violations": [
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J5 on F.Silkscreen",
+          "uuid": "791b758f-f71e-441c-b408-cfd28ca1e802",
+          "pos": {
+            "x": 121.44,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J5 on F.Silkscreen",
+          "uuid": "ac16e22e-efc8-4c43-bde4-3ad36ff8ee5d",
+          "pos": {
+            "x": 131.56,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J9 on F.Silkscreen",
+          "uuid": "3f2c4208-3256-4403-af1f-57cf75362c9c",
+          "pos": {
+            "x": 150.18,
+            "y": 158.56
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J9 on F.Silkscreen",
+          "uuid": "0b10d50e-3ac7-4b95-9668-c61f6a36ab3b",
+          "pos": {
+            "x": 151.82,
+            "y": 160.06
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J9 on F.Silkscreen",
+          "uuid": "257fc9d0-5e5c-43e1-aa42-dd92512419ae",
+          "pos": {
+            "x": 154.14,
+            "y": 158.56
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J9 on F.Silkscreen",
+          "uuid": "62633ec0-6369-4a13-8cfa-44a5f272964a",
+          "pos": {
+            "x": 155.78,
+            "y": 160.06
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J10 on F.Silkscreen",
+          "uuid": "3ed0e9fe-1259-4889-a924-08c222cec512",
+          "pos": {
+            "x": 161.18,
+            "y": 158.56
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J10 on F.Silkscreen",
+          "uuid": "42aa92db-0717-40fe-ab1c-f9a3c454e8d0",
+          "pos": {
+            "x": 162.82,
+            "y": 160.06
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J10 on F.Silkscreen",
+          "uuid": "952fd9bd-8a30-4bc4-aad2-5807ffbbd96f",
+          "pos": {
+            "x": 165.14,
+            "y": 158.56
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J10 on F.Silkscreen",
+          "uuid": "68f6c140-8a73-4440-9cc4-2753522bc5a3",
+          "pos": {
+            "x": 166.78,
+            "y": 160.06
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 100.0,
+        "y": 158.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "73aa0992-fb46-4ade-ad85-2aaabd710580",
+          "pos": {
+            "x": 100.0,
+            "y": 158.0
+          }
+        },
+        {
+          "description": "Segment of J8 on F.Silkscreen",
+          "uuid": "e484866e-0826-4c59-8128-4e22423c5cfe",
+          "pos": {
+            "x": 101.7,
+            "y": 125.3
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 100.0,
+        "y": 158.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "73aa0992-fb46-4ade-ad85-2aaabd710580",
+          "pos": {
+            "x": 100.0,
+            "y": 158.0
+          }
+        },
+        {
+          "description": "Segment of J8 on F.Silkscreen",
+          "uuid": "f2006151-2797-42f2-8cbf-b56a61b276b4",
+          "pos": {
+            "x": 101.7,
+            "y": 134.7
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Reference field of H2",
+          "uuid": "434c4639-aaa2-43e4-85b4-f0cf439cc700",
+          "pos": {
+            "x": 186.0,
+            "y": 99.85
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J4 on F.Silkscreen",
+          "uuid": "ce8c16a5-baf6-43a6-9f68-24d61fd716b4",
+          "pos": {
+            "x": 108.44,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J4 on F.Silkscreen",
+          "uuid": "c0bbc3c9-fd82-412d-aec8-992d3a89d01e",
+          "pos": {
+            "x": 118.56,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J7 on F.Silkscreen",
+          "uuid": "0cd471ac-b47b-48ac-8bd0-b5be36f10e86",
+          "pos": {
+            "x": 146.94,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J7 on F.Silkscreen",
+          "uuid": "ce17a9d3-1eea-45c5-9942-d2521bfdf72b",
+          "pos": {
+            "x": 154.56,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J2 on F.Silkscreen",
+          "uuid": "d1b4dcaf-4bc1-4eaf-a41c-096e0ed7f33d",
+          "pos": {
+            "x": 122.95,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J2 on F.Silkscreen",
+          "uuid": "61c846a5-07d6-4f3a-a229-8e2b33a62c84",
+          "pos": {
+            "x": 123.81,
+            "y": 154.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J2 on F.Silkscreen",
+          "uuid": "94159aa0-ae50-467c-b71c-1e803d173cfb",
+          "pos": {
+            "x": 123.81,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J2 on F.Silkscreen",
+          "uuid": "3d793c59-7a9c-4c66-b17a-6e971fb1fd9b",
+          "pos": {
+            "x": 125.49,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J2 on F.Silkscreen",
+          "uuid": "31cd6d8d-597e-4baf-b911-775a5ffb13ac",
+          "pos": {
+            "x": 126.35,
+            "y": 154.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J2 on F.Silkscreen",
+          "uuid": "7ec9fb76-4f30-40a8-9cd5-e6667501c163",
+          "pos": {
+            "x": 126.35,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J2 on F.Silkscreen",
+          "uuid": "eb7ab5cf-eb7b-4cf8-9f2b-b3f27d1b7c8f",
+          "pos": {
+            "x": 128.03,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J2 on F.Silkscreen",
+          "uuid": "3a53d61c-aa3b-4d48-804f-338471ded7b7",
+          "pos": {
+            "x": 128.89,
+            "y": 154.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J2 on F.Silkscreen",
+          "uuid": "5c76a9ea-227f-41ca-b9ff-e6f357ca5bf6",
+          "pos": {
+            "x": 128.89,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Rectangle of J2 on F.Silkscreen",
+          "uuid": "777510e1-988d-4d1b-8b4a-b0d4f6bc85db",
+          "pos": {
+            "x": 131.43,
+            "y": 154.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Reference field of H1",
+          "uuid": "d4365b07-3ebb-4077-b359-ee9ece542773",
+          "pos": {
+            "x": 104.0,
+            "y": 99.85
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J6 on F.Silkscreen",
+          "uuid": "e46415b0-51c9-43a2-946e-14d954cb7de5",
+          "pos": {
+            "x": 134.44,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J6 on F.Silkscreen",
+          "uuid": "ac0649b8-7a89-480f-a22f-6c0c689516bf",
+          "pos": {
+            "x": 144.56,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J3 on F.Silkscreen",
+          "uuid": "f41f0802-006c-4576-a887-cfeab249bb90",
+          "pos": {
+            "x": 135.95,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J3 on F.Silkscreen",
+          "uuid": "f40ce743-fbe0-4efd-b1b1-cd7e819b5edf",
+          "pos": {
+            "x": 136.81,
+            "y": 154.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J3 on F.Silkscreen",
+          "uuid": "c817140d-5a9f-4f8f-b72f-ad7a5a4dd4c4",
+          "pos": {
+            "x": 136.81,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J3 on F.Silkscreen",
+          "uuid": "7c4e2192-0a04-4217-aa1c-2315589e0ec5",
+          "pos": {
+            "x": 138.49,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J3 on F.Silkscreen",
+          "uuid": "c2f93dd6-1e6a-4fb6-bdef-9cd558ef184a",
+          "pos": {
+            "x": 139.35,
+            "y": 154.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J3 on F.Silkscreen",
+          "uuid": "b57783f1-d40a-4018-8420-3685657dd1e9",
+          "pos": {
+            "x": 139.35,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J3 on F.Silkscreen",
+          "uuid": "cabbff60-7ba6-4b3a-b761-58e2cb90253c",
+          "pos": {
+            "x": 141.03,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J3 on F.Silkscreen",
+          "uuid": "c6d28671-f0dd-408a-ad13-2cd64877e386",
+          "pos": {
+            "x": 141.89,
+            "y": 154.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J3 on F.Silkscreen",
+          "uuid": "35e8d622-38d5-4f02-b775-a703964fba08",
+          "pos": {
+            "x": 141.89,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Rectangle of J3 on F.Silkscreen",
+          "uuid": "a7c615b5-662f-4938-9404-3a92d8f5ac4c",
+          "pos": {
+            "x": 144.43,
+            "y": 154.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 190.0,
+        "y": 102.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "55991576-cc21-4004-873b-1491c3c76bfd",
+          "pos": {
+            "x": 190.0,
+            "y": 102.0
+          }
+        },
+        {
+          "description": "Segment of U1 on F.Silkscreen",
+          "uuid": "6a86954f-8b79-4c0c-ae2f-78d7eb5e6b11",
+          "pos": {
+            "x": 196.21,
+            "y": 139.11
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 190.0,
+        "y": 102.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "55991576-cc21-4004-873b-1491c3c76bfd",
+          "pos": {
+            "x": 190.0,
+            "y": 102.0
+          }
+        },
+        {
+          "description": "Polygon of U1 on F.Silkscreen",
+          "uuid": "f595b186-8f67-4642-b64a-83c217e18db5",
+          "pos": {
+            "x": 189.7,
+            "y": 120.9
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J11 on F.Silkscreen",
+          "uuid": "ed78ca3b-8f6b-485d-b489-3cb7f70a7589",
+          "pos": {
+            "x": 157.94,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 102.0,
+        "y": 100.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "719fdd2d-fbe5-4082-b607-313ad5157851",
+          "pos": {
+            "x": 102.0,
+            "y": 100.0
+          }
+        },
+        {
+          "description": "Segment of J11 on F.Silkscreen",
+          "uuid": "fe99b9ac-8883-4418-bbbf-2ecce12b67a2",
+          "pos": {
+            "x": 165.56,
+            "y": 99.94
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J1 on F.Silkscreen",
+          "uuid": "757d8519-9b69-47d5-9d87-0566f40b2ad5",
+          "pos": {
+            "x": 109.4,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J1 on F.Silkscreen",
+          "uuid": "4558aa5c-5d88-4548-9a28-06c4c157a97c",
+          "pos": {
+            "x": 118.6,
+            "y": 151.25
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_edge_clearance",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by board edge",
+      "location": {
+        "x": 188.0,
+        "y": 160.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment on Edge.Cuts",
+          "uuid": "148475f8-80ac-4432-aed4-2cd8b65d044c",
+          "pos": {
+            "x": 188.0,
+            "y": 160.0
+          }
+        },
+        {
+          "description": "Segment of J1 on F.Silkscreen",
+          "uuid": "f1d78a75-18f7-4ff5-a737-21bda23cc283",
+          "pos": {
+            "x": 118.6,
+            "y": 160.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Footprint 'ESP32-C3-WROOM-02' does not match copy in library 'RF_Module'",
+      "location": {
+        "x": 183.0,
+        "y": 130.0,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Footprint U1",
+          "uuid": "e3126c80-298a-4ed2-a660-13d86287b11f",
+          "pos": {
+            "x": 183.0,
+            "y": 130.0
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_overlap",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clearance",
+      "location": {
+        "x": 139.5,
+        "y": 112.76,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Reference field of J6",
+          "uuid": "ec9dc64f-86bb-4f82-8ed7-c5142f670a8d",
+          "pos": {
+            "x": 139.5,
+            "y": 112.76
+          }
+        },
+        {
+          "description": "Reference field of C3",
+          "uuid": "f12ac19a-c2ad-4303-9857-0cd4d587620a",
+          "pos": {
+            "x": 138.0,
+            "y": 113.32
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_overlap",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clearance",
+      "location": {
+        "x": 124.0,
+        "y": 129.75,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Reference field of SW2",
+          "uuid": "215e016a-af2d-4408-9930-a4de49ce74e8",
+          "pos": {
+            "x": 124.0,
+            "y": 129.75
+          }
+        },
+        {
+          "description": "Segment of SW1 on F.Silkscreen",
+          "uuid": "ab583f68-d97e-483a-b7a2-ecd6fbf034e1",
+          "pos": {
+            "x": 122.25,
+            "y": 129.8
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_overlap",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clearance",
+      "location": {
+        "x": 122.7,
+        "y": 130.25,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment of SW1 on F.Silkscreen",
+          "uuid": "0158a320-ccb4-448a-9fd2-de66ec15a656",
+          "pos": {
+            "x": 122.7,
+            "y": 130.25
+          }
+        },
+        {
+          "description": "Reference field of SW2",
+          "uuid": "215e016a-af2d-4408-9930-a4de49ce74e8",
+          "pos": {
+            "x": 124.0,
+            "y": 129.75
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_overlap",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clearance",
+      "location": {
+        "x": 124.0,
+        "y": 129.75,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Reference field of SW2",
+          "uuid": "215e016a-af2d-4408-9930-a4de49ce74e8",
+          "pos": {
+            "x": 124.0,
+            "y": 129.75
+          }
+        },
+        {
+          "description": "Segment of SW1 on F.Silkscreen",
+          "uuid": "a17d1ffd-d76e-4f6b-8ff6-9aa3c686006f",
+          "pos": {
+            "x": 125.75,
+            "y": 129.8
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_overlap",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clearance",
+      "location": {
+        "x": 122.7,
+        "y": 136.25,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Segment of SW2 on F.Silkscreen",
+          "uuid": "f7a15b6c-8faa-4314-9d91-a8e73afdca9a",
+          "pos": {
+            "x": 122.7,
+            "y": 136.25
+          }
+        },
+        {
+          "description": "Reference field of R1",
+          "uuid": "ff6c160f-7dce-43e0-98ef-e3be3b973d04",
+          "pos": {
+            "x": 124.5,
+            "y": 136.57
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_overlap",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clearance",
+      "location": {
+        "x": 113.0,
+        "y": 133.57,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Reference field of R3",
+          "uuid": "251a1899-a2f8-49b2-97d0-9abf1e49422c",
+          "pos": {
+            "x": 113.0,
+            "y": 133.57
+          }
+        },
+        {
+          "description": "Segment of R2 on F.Silkscreen",
+          "uuid": "9bfe3a1c-b71e-4267-850d-7635a59ff0c6",
+          "pos": {
+            "x": 112.762742,
+            "y": 133.0225
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_over_copper",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by solder mask",
+      "location": {
+        "x": 113.0,
+        "y": 133.57,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Reference field of R3",
+          "uuid": "251a1899-a2f8-49b2-97d0-9abf1e49422c",
+          "pos": {
+            "x": 113.0,
+            "y": 133.57
+          }
+        },
+        {
+          "description": "Pad 1 [/USB_CC1] of R2 on F.Cu",
+          "uuid": "63d8eed0-25a3-41d8-b0ec-5e6bbc50ae72",
+          "pos": {
+            "x": 112.175,
+            "y": 132.5
+          }
+        }
+      ]
+    },
+    {
+      "type": "silk_over_copper",
+      "severity": "warning",
+      "category": "violations",
+      "message": "Silkscreen clipped by solder mask",
+      "location": {
+        "x": 113.0,
+        "y": 133.57,
+        "unit": "mm"
+      },
+      "items": [
+        {
+          "description": "Reference field of R3",
+          "uuid": "251a1899-a2f8-49b2-97d0-9abf1e49422c",
+          "pos": {
+            "x": 113.0,
+            "y": 133.57
+          }
+        },
+        {
+          "description": "Pad 2 [/GND] of R2 on F.Cu",
+          "uuid": "aa404ed2-c7e0-43ae-ab04-b73dbdbddba3",
+          "pos": {
+            "x": 113.825,
+            "y": 132.5
+          }
+        }
+      ]
+    }
+  ]
+}
